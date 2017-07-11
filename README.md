@@ -1,7 +1,7 @@
 # Snake
 Snake AI 对抗平台
 
-使用了semantic-ui前端框架
+使用了semantic-ui前端框架，在 https://semantic-ui.com/ 下载
 
 后台为php调用C程序
 
